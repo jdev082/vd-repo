@@ -21,7 +21,7 @@ commands.push(registerCommand({
     inputType: 1,
     type: 1,
 
-    execute: (args, ctx) => MessageActions.sendMessage(ctx.channel.id, {
+    execute: (ctx) => MessageActions.sendMessage(ctx.channel.id, {
         content: fact()
     })
 }))
