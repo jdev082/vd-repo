@@ -1,0 +1,86 @@
+{
+    "name": "Catalyst",
+    "description": "Looks like the Catalyst web browser",
+    "authors": [
+        {
+            "name": "jdev082",
+            "id": "1038089405161807872"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#111827"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "1f2937"
+        ],
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "KEYBOARD": [
+            "#261133"
+        ],
+        "CHAT_BACKGROUND": [
+            "#374151"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#4b5563"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#4b5563"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#4b5563"
+        ],
+
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#4b5563"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#10b981"
+        ],
+        
+        
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#333333"
+        ],
+        "TEXT_LINK": [
+            "#cb93df"
+        ],
+      "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#374151"
+        ],
+
+        "CHANNEL_ICON": [
+            "#10b981"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#ffffff"
+        ],
+
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#64748b",
+        "PRIMARY_600": "#4b5563",
+        "PRIMARY_630": "#374151",
+        "PRIMARY_660": "#374151",
+        "PRIMARY_700": "#374151",
+        "PRIMARY_800": "#1f2937",
+        "BRAND_360": "#6ee7b7",
+        "BRAND_260": "#a7f3d0",
+        "BRAND_500": "#10b981",
+        "BRAND_560": "#10b981",
+        "BRAND_900": "#cb93df",
+        "GREEN_360": "#86efac",
+        "YELLOW_300": "#fde047",
+        "RED_400": "#f87171",
+        "WHITE_500": "#ffffff"
+    },
+    "spec": 2
+}
