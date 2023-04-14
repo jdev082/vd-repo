@@ -1,0 +1,27 @@
+{
+    "name": "Vendetta24",
+    "description": "A theme generated with VenettaThemeGen!",
+    "authors": [
+        {
+            "name": "jdev082",
+            "id": "1038089405161807872"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#242424"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#7393B3"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#242424"
+        ],
+        "CHANNEL_BACKGROUND": [
+            "#242424"
+        ]
+    }
+}
