@@ -1,0 +1,32 @@
+{
+    "name": "#000000",
+    "description": "A theme generated with VenettaThemeGen!",
+    "authors": [
+        {
+            "name": "asdf",
+            "id": "2343478549375"
+        }
+    ],
+    "semanticColors": {
+        "BACKGROUND_PRIMARY": [
+            "#000000"
+        ],
+        "TEXT_NORMAL": [
+            "#000000"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#000000"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000"
+        ],
+        "CHANNEL_BACKGROUND": [
+            "#000000"
+        ]
+    },
+    "background": {
+        "blur": "",
+        "url": ""
+    },
+    "spec": 2
+}
