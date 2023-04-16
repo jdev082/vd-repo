@@ -1,6 +1,6 @@
 {
     "name": "Vendetta24",
-    "description": "A theme generated with VenettaThemeGen!",
+    "description": "A theme generated with VendettaThemeGen!",
     "authors": [
         {
             "name": "jdev082",
@@ -15,13 +15,18 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#7393B3"
+            "#242434"
         ],
         "BACKGROUND_TERTIARY": [
-            "#242424"
+            "#242434"
         ],
         "CHANNEL_BACKGROUND": [
             "#242424"
         ]
-    }
+    },
+    "background": {
+        "blur": "0.5",
+        "url": "https://w0.peakpx.com/wallpaper/924/747/HD-wallpaper-rick-astley-rick-rolled.jpg"
+    },
+    "spec": 2
 }
